@@ -13,7 +13,8 @@ freigeschalten = [
 	470769, // Jannis (Jannis636)
     88857, // Gregor (GregorPaul)
     675, // Sanni,
-    411202, // Sanni Tester
+    411202, // Sanni Tester,
+    119967, // JuMaHo
 
     381370, // Scripttester
     548597 // Scripttester2
